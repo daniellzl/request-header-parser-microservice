@@ -1,19 +1,23 @@
-# Request Header Parser Microservice
+# Request Header Parser
 
-This website returns the user's IP address, language, and operating system using JSON.
+Returns the user's IP address, language, and operating system using JSON.
 
-## Website
+[Live Application](https://request-parser-dlzl.herokuapp.com)
 
-https://request-parser-dlzl.herokuapp.com
-    
 ## Example Usage
-    
+
 https://request-parser-dlzl.herokuapp.com
-    
+
 returns
 
 {"ipaddress":"21.151.126.20","language":"en-US","software":"X11; Ubuntu; Linux x86_64; rv:48.0"}
-    
-## Credit
 
-https://www.freecodecamp.com/challenges/request-header-parser-microservice
+### Project Goals
+
+Application was completed as a freeCodeCamp [challenge](https://www.freecodecamp.org/challenges/request-header-parser-microservice).
+
+1. User Story: I can get the IP address, language and operating system for my browser.
+
+### Technologies
+
+* express
