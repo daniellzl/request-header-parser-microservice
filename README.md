@@ -4,7 +4,7 @@ Returns the user's IP address, language, and operating system using JSON.
 
 [Live Application](https://request-parser-dlzl.herokuapp.com)
 
-## Example Usage
+### Example Usage
 
 https://request-parser-dlzl.herokuapp.com
 
